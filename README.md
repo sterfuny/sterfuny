@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=sterfuny&show_icons=true&count_private=true&include_all_commits=true&title_color=0969DA&icon_color=7b2ff7&text_color=22c55e&bg_color=ffffff" alt="sterfuny's GitHub Stats" />
+
 <!--
 **sterfuny/sterfuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
