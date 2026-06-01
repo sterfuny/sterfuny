@@ -8,9 +8,9 @@
 
 ### Toolchain
 
-<p>
-  <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white" height="28" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim" height="28" />
+<p align="center">
+  <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3Mi4wIiBoZWlnaHQ9IjcyLjAiIHZpZXdCb3g9IjAgMCAyNC4wIDI0LjAiPgogIDxkZWZzPgogICAgPGNsaXBQYXRoIGlkPSJjbGlwMCI+CiAgICAgIDxwYXRoIGQ9Ik0wLDBoMjR2MjRoLTI0eiIgLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgogIDxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiPgogICAgPHBhdGggZD0iTTUsNEgyTDgsMTJMMiwyMEg1TDExLDEyTDUsNFoiIGZpbGw9IiNGRkZGRkYiIC8+CiAgICA8cGF0aCBkPSJNMTMsMThIMjJWMjBIMTNWMThaIiBmaWxsPSIjRkZGRkZGIiAvPgogIDwvZz4KPC9zdmc+&logoColor=white" height="28" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="28" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
