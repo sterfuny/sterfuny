@@ -9,8 +9,8 @@
 ### Toolchain
 
 <p>
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=57A143" height="28" />
-  <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="28" />
+  <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white" height="28" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim" height="28" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
@@ -18,7 +18,6 @@
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="28" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="28" />
-  <img alt="Zellij" src="https://img.shields.io/badge/Zellij-5C4A6E?style=for-the-badge&logo=zellij&logoColor=white" height="28" />
 </p>
 
 ### Languages
