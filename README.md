@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=sterfuny&show_icons=true&count_private=true&include_all_commits=true&title_color=0969DA&icon_color=7b2ff7&text_color=22c55e&bg_color=00000000" alt="GitHub Stats" />
 
@@ -18,11 +18,16 @@
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="28" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="28" />
+  <!-- <img alt="Zellij" src="https://img.shields.io/badge/Zellij-5C4A6E?style=for-the-badge&logo=zellij&logoColor=white" height="28" /> -->
 </p>
+
+<!--
+<a href="https://zellij.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zellij" alt="Zellij" /></a>
+-->
 
 ### Languages
 
-Learning
+- Learning
 
 <p align="left">
   <a href="https://go.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="Golang" /></a>
@@ -32,7 +37,7 @@ Learning
   <a href="https://www.lua.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" alt="Lua" /></a>
 </p>
 
-Used three years ago
+- Used three years ago
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="Python" /></a>
@@ -40,9 +45,9 @@ Used three years ago
 </p>
 
 <details>
-  <summary>Gaming experience</summary>
+  <summary>gaming experience</summary>
   
-  [![osu! profile](https://osekai.net/profiles/img/banner.svg?id=29623705)](https://osekai.net/profiles?user=29623705)
+  [![osu! profile](https://osekai.net/profiles/img/banner.svg?id=29623705)](https://osu.ppy.sh/users/29623705)
   
 </details>
 
