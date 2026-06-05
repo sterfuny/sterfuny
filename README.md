@@ -1,11 +1,5 @@
 # Hi there 👋
 
-<img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=sterfuny&show_icons=true&count_private=true&include_all_commits=true&title_color=0969DA&icon_color=7b2ff7&text_color=22c55e&bg_color=00000000" alt="GitHub Stats" />
-
-<!--
-<img src="https://github-readme-stats-one-pied-48.vercel.app/api/top-langs/?username=sterfuny&layout=compact&theme=radical&title_color=f871c4" alt="repo Languages" />
--->
-
 ### Toolchain
 
 <p align="center">
@@ -13,8 +7,6 @@
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="28" />
   <img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="28" />
 </p>
-
----
 
 <p align="center">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="28" />
@@ -49,16 +41,18 @@
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" alt="Kotlin" /></a>
 </p>
 
+<img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=sterfuny&show_icons=true&count_private=true&include_all_commits=true&title_color=0969DA&icon_color=7b2ff7&text_color=22c55e&bg_color=00000000" alt="GitHub Stats" />
+
 <details>
-  <summary>gaming experience</summary>
+  <summary>more experience</summary>
+  
+  <!-- <img src="https://github-readme-stats-one-pied-48.vercel.app/api/top-langs/?username=sterfuny&layout=compact&theme=radical&title_color=f871c4" alt="repo Languages" /> -->
   
   [![osu! profile](https://osekai.net/profiles/img/banner.svg?id=29623705)](https://osu.ppy.sh/users/29623705)
   
 </details>
 
-<!--
-[![Learning Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css)](https://skillicons.dev)
--->
+<!-- [![Learning Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css)](https://skillicons.dev) -->
 
 <!--
 **sterfuny/sterfuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
