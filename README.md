@@ -47,10 +47,10 @@
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" alt="Kotlin" /></a>
 </p>
 
-<img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=sterfuny&show_icons=true&count_private=true&include_all_commits=true&title_color=0969DA&icon_color=7b2ff7&text_color=22c55e&bg_color=00000000" alt="GitHub Stats" />
-
 <details>
   <summary>more experience</summary>
+  
+  <img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=sterfuny&show_icons=true&count_private=true&include_all_commits=true&title_color=0969DA&icon_color=7b2ff7&text_color=22c55e&bg_color=00000000" alt="GitHub Stats" />
   
   <!-- <img src="https://github-readme-stats-one-pied-48.vercel.app/api/top-langs/?username=sterfuny&layout=compact&theme=radical&title_color=f871c4" alt="repo Languages" /> -->
   
