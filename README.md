@@ -10,17 +10,17 @@ Im sterfu_nyZ
 
 ### Toolchain
 
-<p align="left">
-  I usually work on <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3Mi4wIiBoZWlnaHQ9IjcyLjAiIHZpZXdCb3g9IjAgMCAyNC4wIDI0LjAiPgogIDxkZWZzPgogICAgPGNsaXBQYXRoIGlkPSJjbGlwMCI+CiAgICAgIDxwYXRoIGQ9Ik0wLDBoMjR2MjRoLTI0eiIgLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgogIDxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiPgogICAgPHBhdGggZD0iTTUsNEgyTDgsMTJMMiwyMEg1TDExLDEyTDUsNFoiIGZpbGw9IiNGRkZGRkYiIC8+CiAgICA8cGF0aCBkPSJNMTMsMThIMjJWMjBIMTNWMThaIiBmaWxsPSIjRkZGRkZGIiAvPgogIDwvZz4KPC9zdmc+&logoColor=white" height="28" />
-</p>
-<p align="left">
-  home server is <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="28" />
+<p align="center">
+  <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3Mi4wIiBoZWlnaHQ9IjcyLjAiIHZpZXdCb3g9IjAgMCAyNC4wIDI0LjAiPgogIDxkZWZzPgogICAgPGNsaXBQYXRoIGlkPSJjbGlwMCI+CiAgICAgIDxwYXRoIGQ9Ik0wLDBoMjR2MjRoLTI0eiIgLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgogIDxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiPgogICAgPHBhdGggZD0iTTUsNEgyTDgsMTJMMiwyMEg1TDExLDEyTDUsNFoiIGZpbGw9IiNGRkZGRkYiIC8+CiAgICA8cGF0aCBkPSJNMTMsMThIMjJWMjBIMTNWMThaIiBmaWxsPSIjRkZGRkZGIiAvPgogIDwvZz4KPC9zdmc+&logoColor=white" height="28" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="28" />
 </p>
 
 <p align="center">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="28" />
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="28" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="28" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" height="28" />
 </p>
 
 <!--
@@ -53,7 +53,9 @@ Im sterfu_nyZ
   
   <!-- <img src="https://github-readme-stats-one-pied-48.vercel.app/api/top-langs/?username=sterfuny&layout=compact&theme=radical&title_color=f871c4" alt="repo Languages" /> -->
   
-  [![osu! profile](https://osekai.net/profiles/img/banner.svg?id=29623705)](https://osu.ppy.sh/users/29623705)
+  <a href="https://osu.ppy.sh/users/29623705" target="_blank"><img alt="osu! profile" src="https://osekai.net/profiles/img/banner.svg?id=29623705" /></a>
+  
+  <!-- [![osu! profile](https://osekai.net/profiles/img/banner.svg?id=29623705)](https://osu.ppy.sh/users/29623705) -->
   
 </details>
 
