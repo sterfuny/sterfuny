@@ -1,9 +1,7 @@
-Im sterfu_nyZ👋
+## Hi Im sterfu_nyZ👋
 
 - I build small projects to learn.
-
 - I believe in writing simple code that works, Things that can be creative.
-
 - I want to build creative things, not reinvent the wheel.
 
 <picture>
