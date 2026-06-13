@@ -1,6 +1,10 @@
-# Hi there 👋
+Im sterfu_nyZ👋
 
-Im sterfu_nyZ
+- I build small projects to learn.
+
+- I believe in writing simple code that works, Things that can be creative.
+
+- I want to build creative things, not reinvent the wheel.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake-dark.svg">
@@ -29,7 +33,7 @@ Im sterfu_nyZ
 
 ### Languages
 
-- Learning
+Learning
 
 <p align="left">
   <a href="https://go.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="Golang" /></a>
@@ -39,7 +43,7 @@ Im sterfu_nyZ
   <a href="https://www.lua.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" alt="Lua" /></a>
 </p>
 
-- Used three years ago
+Used three years ago
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="Python" /></a>
