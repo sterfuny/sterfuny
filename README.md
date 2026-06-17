@@ -1,8 +1,10 @@
-## Hi Im sterfu_nyZ👋
+# Hi👋
 
-- I build small projects to learn.
-- I believe in writing simple code that works, Things that can be creative.
-- I want to build creative things, not reinvent the wheel.
+***Im sterfu_nyZ***
+
+- 🧩 I'm currently building small modular projects to learn.
+- 🎨 I'm currently building creative things that play nicely with others.
+- ⚡ I'm keeping my workflow as lightweight as possible.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake-dark.svg">
@@ -10,7 +12,7 @@
   <img alt="github contribution animation" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
 </picture>
 
-### Toolchain
+# Toolchain
 
 <p align="center">
   <img alt="Termux" src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3Mi4wIiBoZWlnaHQ9IjcyLjAiIHZpZXdCb3g9IjAgMCAyNC4wIDI0LjAiPgogIDxkZWZzPgogICAgPGNsaXBQYXRoIGlkPSJjbGlwMCI+CiAgICAgIDxwYXRoIGQ9Ik0wLDBoMjR2MjRoLTI0eiIgLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgogIDxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiPgogICAgPHBhdGggZD0iTTUsNEgyTDgsMTJMMiwyMEg1TDExLDEyTDUsNFoiIGZpbGw9IiNGRkZGRkYiIC8+CiAgICA8cGF0aCBkPSJNMTMsMThIMjJWMjBIMTNWMThaIiBmaWxsPSIjRkZGRkZGIiAvPgogIDwvZz4KPC9zdmc+&logoColor=white" height="28" />
@@ -29,9 +31,9 @@
 <a href="https://zellij.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zellij" alt="Zellij" /></a>
 -->
 
-### Languages
+# Languages
 
-Learning
+learning
 
 <p align="left">
   <a href="https://go.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="Golang" /></a>
@@ -41,7 +43,7 @@ Learning
   <a href="https://www.lua.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" alt="Lua" /></a>
 </p>
 
-Used three years ago
+*Used three years ago*
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="Python" /></a>
