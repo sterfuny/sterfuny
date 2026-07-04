@@ -31,6 +31,7 @@
 <a href="https://zellij.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zellij" alt="Zellij" /></a>
 -->
 
+<!--
 # Languages
 
 learning
@@ -49,6 +50,7 @@ learning
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="Python" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" alt="Kotlin" /></a>
 </p>
+-->
 
 <details>
   <summary>more experience</summary>
