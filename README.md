@@ -7,21 +7,13 @@
 - ⚡ I'm keeping my workflow as lightweight as possible.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github_dark/contributions-heatmap.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github/contributions-heatmap.svg">
-  <img alt="Contributions" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github/contributions-heatmap.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github_dark/streak.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github/streak.svg">
-  <img alt="Streak" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github/streak.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
   <img alt="github contribution animation" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
+</picture>
+
+<picture>
+  <img alt="Streak" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/streak.svg">
 </picture>
 
 # Toolchain
