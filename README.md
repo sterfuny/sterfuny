@@ -7,13 +7,21 @@
 - ⚡ I'm keeping my workflow as lightweight as possible.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
-  <img alt="github contribution animation" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=sterfuny%2Cget1sterfun&colors=bc8cff&bg=dark" alt="Merged contributions">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=sterfuny%2Cget1sterfun&colors=bc8cff&bg=light" alt="Merged contributions">
+  <img alt="github contribution animation" src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=sterfuny%2Cget1sterfun&colors=bc8cff&bg=dark" alt="Merged contributions">
 </picture>
 
+<!--
 <picture>
-  <img alt="Streak" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/streak.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
+<img alt="github contribution animation" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/github-contribution-grid-snake.svg">
+</picture>
+-->
+
+<picture>
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=sterfuny&theme=material-palenight&hide_border=true&background=FFFFFF00&ring=FB8C01&fire=FB8C01&currStreakNum=EA55B9&currStreakLabel=C792EA">
 </picture>
 
 # Toolchain
