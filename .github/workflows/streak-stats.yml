@@ -1,0 +1,37 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml" # Run any time this file is modified
+  workflow_dispatch: # Run manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          fetch-depth: 0
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=material-palenight&hide_border=true&background=FFFFFF00&fire=FB8C01&currStreakNum=974DFF&currStreakLabel=6080B0
+          path: dist/streak.svg
+          token: ${{ secrets.GHSTATS_TOKEN }}
+
+      - name: push streak stats
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
