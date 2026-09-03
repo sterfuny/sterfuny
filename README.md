@@ -15,7 +15,7 @@
 -->
 
 <picture>
-  <img alt="Streak" src="https://cdn.jsdelivr.net/gh/sterfuny/sterfuny@output/streak.svg">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=sterfuny&theme=material-palenight&hide_border=true&background=FFFFFF00&fire=FB8C01&ring=974DFF&currStreakNum=FB8C01&currStreakLabel=6080B0">
 </picture>
 
 <picture>
